@@ -1,0 +1,26 @@
+{
+  "name": "mqtt-test",
+  "version": "1.0.0",
+  "description": "A MQTT test producer/consumer",
+  "main": "index.js",
+  "dependencies": {
+    "mqtt": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/novaccess/mqtt-test.git"
+  },
+  "keywords": [
+    "mqtt",
+    "iot",
+    "internet",
+    "thing"
+  ],
+  "author": "Valentin Delaye (valentin.delaye@novaccess.ch)",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/novaccess/mqtt-test"
+}
